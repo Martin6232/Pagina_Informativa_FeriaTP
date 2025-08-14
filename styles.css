@@ -392,3 +392,12 @@ footer p {
     background-size: cover;
 }
 
+#text{
+    color: white;
+    text-shadow:
+        -1px -1px 0 #8b45bd,
+        1px -1px 0 #8b45bd,
+        -1px 1px 0 #8b45bd,
+        1px 1px 0 #8b45bd;
+}
+
